@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.3.0
+jdk:
+  - oraclejdk8
+notifications:
+  email: false
